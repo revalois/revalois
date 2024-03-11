@@ -6,10 +6,7 @@ Sou uma pessoa Analista de Qualidade de Software (QA). E gamer! 🎮
 
 #### 📚Projetos
 
-Atualmente trabalho em dois projetos voluntários como QA:
-
-    🍿 Pipoca Ágil
-    🧝 Tem Vaga Mestre
+Atualmente atuo como QA voluntária no projeto 🧝 Tem Vaga Mestre da SouJunior
 
 ## 🛠 Tecnologias e Ferramentas
 
